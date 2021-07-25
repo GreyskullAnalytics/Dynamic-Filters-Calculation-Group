@@ -1,8 +1,7 @@
 // by Johnny Winter
 // www.greyskullanalytics.com
 
-//script creates a calculation group that allows you to slice measures by a value range 
-//and a calculation group to control whihc measure this is applied to
+//Script creates 2 calculation groups. One allows you to slice measures by a value range, the other controls which measure the slicer applies to 
 //change the next 5 string variables for different naming conventions
 
 //add the name of your calculation group for selecting the filter value here
